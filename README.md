@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kadetino
-- 🌱 I’m currently learning Kotlin
 
 <!---
 Kadetino/Kadetino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
